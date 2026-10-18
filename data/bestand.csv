@@ -1,0 +1,15 @@
+id,status,geschlecht,geburtsjahr,alter,eintritt,rente
+A01,aktiv,w,1998,28,25,3600
+A02,aktiv,m,1993,33,27,4200
+A03,aktiv,w,1989,37,30,6000
+A04,aktiv,m,1985,41,29,4800
+A05,aktiv,m,1981,45,30,6000
+A06,aktiv,w,1977,49,35,7200
+A07,aktiv,m,1974,52,28,9000
+A08,aktiv,w,1970,56,40,5400
+A09,aktiv,m,1966,60,32,8400
+A10,aktiv,m,1962,64,30,10800
+R01,rentner,m,1958,68,30,7800
+R02,rentner,m,1954,72,28,9600
+R03,rentner,w,1949,77,31,6600
+R04,rentner,m,1943,83,27,5400
